@@ -1,4 +1,4 @@
-Luxury
-======
+ETIHAD Airlines
+===============
 
-A Responsive Template for Real Estate Business 
+This website is one of the sample of web design.
